@@ -1,6 +1,6 @@
 ![adl](https://github.com/user-attachments/assets/f7f59406-0638-4fed-8dab-2c68df09c69d)
 
-<h1>Configuring Network File Shares and Permissions in Active Directory</h1>
+<h1>Configuring Network File Shares & Permissions in Active Directory</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
